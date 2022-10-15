@@ -30,7 +30,7 @@ module.exports = {
       },
 
       cyan: {
-        300: '#61dafb',
+        300: '#91DBEF',
         500: '#61dafb',
       }
     },
